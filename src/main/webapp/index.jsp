@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> DO IT NOW AND IF ANY DOUBT ASK-----IPOINDHA MASTERUU....🤣😂😁</h2>
+      <h2> Minor project development</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
